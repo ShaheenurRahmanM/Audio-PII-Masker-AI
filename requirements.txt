@@ -22,4 +22,3 @@ regex
 streamlit-webrtc
 streamlit-autorefresh
 streamlit-lottie
-audio-recorder-streamlit
