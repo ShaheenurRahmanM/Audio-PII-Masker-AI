@@ -6,7 +6,16 @@ numpy
 presidio-analyzer 
 presidio-anonymizer
 geotext
-transformers
 sentencepiece
 audio-recorder-streamlit
+streamlit
+openai
+whisper
+transformers
+torch
+pydub
+pandas
+requests
+scikit-learn
+joblib
 
