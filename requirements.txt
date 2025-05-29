@@ -6,7 +6,6 @@ presidio-analyzer
 presidio-anonymizer
 geotext
 audio-recorder-streamlit
-streamlit
 transformers
 torch
 pydub
@@ -14,6 +13,13 @@ pandas
 requests
 scikit-learn
 joblib
-streamlit
 git+https://github.com/openai/whisper.git
 setuptools<81
+spacy
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+phonenumbers
+regex
+streamlit-webrtc
+streamlit-autorefresh
+streamlit-lottie
+audio-recorder-streamlit
