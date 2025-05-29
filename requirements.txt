@@ -5,7 +5,6 @@ numpy
 presidio-analyzer 
 presidio-anonymizer
 geotext
-sentencepiece
 audio-recorder-streamlit
 streamlit
 transformers
