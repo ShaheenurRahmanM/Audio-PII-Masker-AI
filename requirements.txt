@@ -1,5 +1,4 @@
 streamlit
-openai-whisper
 spacy
 ffmpeg-python
 numpy
@@ -9,8 +8,6 @@ geotext
 sentencepiece
 audio-recorder-streamlit
 streamlit
-openai
-whisper
 transformers
 torch
 pydub
@@ -18,4 +15,5 @@ pandas
 requests
 scikit-learn
 joblib
-
+openai-whisper==20231106
+setuptools<81
